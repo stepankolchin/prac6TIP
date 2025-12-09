@@ -10,18 +10,23 @@
 
 - **Создание пользователя**
 
+<img width="958" height="74" alt="screen1" src="https://github.com/user-attachments/assets/f97704e8-0c96-4aef-9e7f-7b5361f37543" />
 
 
 - **Создание заметки**
 
+<img width="960" height="125" alt="screen2" src="https://github.com/user-attachments/assets/f93b03a8-966b-4c5f-a29b-63c37ed0d924" />
 
 
 
 - **Получение заметки**
 
+<img width="1084" height="435" alt="screen3" src="https://github.com/user-attachments/assets/22317d3c-a343-48f9-9aa9-3bd8b8ddc86e" />
 
 
 - **Схема БД `ERD`**
+
+<img width="812" height="642" alt="screen4" src="https://github.com/user-attachments/assets/15633f16-d509-46d7-82db-3c8923209a5f" />
 
 
 - **Запуск проекта**:
